@@ -1,0 +1,11 @@
+{
+  "name": "mini-tailwind",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node tailwind-lite.js"
+  },
+  "dependencies": {
+    "postcss": "^8.4.21"
+  }
+}
